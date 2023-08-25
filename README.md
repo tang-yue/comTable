@@ -1,3 +1,2 @@
-element-plus table
-
-基本配置
+# comTable
+npm 包  element-ui 的table 封装
